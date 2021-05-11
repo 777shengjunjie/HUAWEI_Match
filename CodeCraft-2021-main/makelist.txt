@@ -1,0 +1,17 @@
+com/huawei/java/main/Main.java
+com/huawei/java/main/Decision.java
+com/huawei/java/main/Deployment.java
+com/huawei/java/main/Migration.java
+com/huawei/java/main/Purchase.java
+com/huawei/java/main/Reader.java
+com/huawei/java/main/Request.java
+com/huawei/java/main/Room.java
+com/huawei/java/main/ServerInstance.java
+com/huawei/java/main/ServerManager.java
+com/huawei/java/main/ServerType.java
+com/huawei/java/main/Simulator.java
+com/huawei/java/main/Solver.java
+com/huawei/java/main/VmInstance.java
+com/huawei/java/main/VmManager.java
+com/huawei/java/main/VmType.java
+com/huawei/java/main/Writer.java
